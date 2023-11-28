@@ -1,6 +1,11 @@
 import React, { useContext, useState } from "react";
 import { Link, useLocation, useNavigate } from "react-router-dom";
 import { AuthContext } from "../contexts/AuthProvider";
+import { GoogleAuthProvider, getAuth } from "firebase/auth";
+
+const provider = new GoogleAuthProvider();
+
+const auth = getAuth();
 
 const title = "Login";
 const socialTitle = "Login With Social Media";
