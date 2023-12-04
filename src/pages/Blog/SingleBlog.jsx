@@ -73,13 +73,12 @@ const SingleBlog = () => {
                                     <li>
                                       <a href="#">
                                         <i className="icofont-calendar"></i>
-                                        April 23,2021
+                                        April 23,2023
                                       </a>
                                     </li>
                                     <li>
                                       <a href="#">
-                                        <i className="icofont-ui-user"></i>Rajib
-                                        Raj
+                                        <i className="icofont-ui-user"></i>Mubeen Mukhtar
                                       </a>
                                     </li>
                                     <li>
@@ -138,7 +137,7 @@ const SingleBlog = () => {
 
                                 <img
                                   src="/src/assets/images/blog/single/01.jpg"
-                                  alt="rajibraj91"
+                                  alt="mubeen29"
                                 />
 
                                 <p>
@@ -164,7 +163,7 @@ const SingleBlog = () => {
                                     alt="video"
                                   />
                                   <a
-                                    href="https://youtu.be/2qWo6W5Wn8Q"
+                                    href="https://youtube.com"
                                     className="video-button popup"
                                     target="_blank"
                                   >

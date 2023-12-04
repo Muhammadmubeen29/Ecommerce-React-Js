@@ -9,11 +9,11 @@ const blogList = [
         metaList: [
             {
                 iconName: 'icofont-ui-user',
-                text: 'Rajib Raj',
+                text: 'xyz',
             },
             {
                 iconName: 'icofont-calendar',
-                text: 'Jun 05,2022',
+                text: 'Nov 27,2023',
             },
         ],
     },
@@ -28,11 +28,11 @@ const blogList = [
         metaList: [
             {
                 iconName: 'icofont-ui-user',
-                text: 'Rajib Raj',
+                text: 'xyz',
             },
             {
                 iconName: 'icofont-calendar',
-                text: 'Jun 05,2022',
+                text: 'Nov 27,2023',
             },
         ],
     },
@@ -47,11 +47,11 @@ const blogList = [
         metaList: [
             {
                 iconName: 'icofont-ui-user',
-                text: 'Rajib Raj',
+                text: 'xyz',
             },
             {
                 iconName: 'icofont-calendar',
-                text: 'Jun 05,2022',
+                text: 'Nov 27,2023',
             },
         ],
     },
@@ -66,11 +66,11 @@ const blogList = [
         metaList: [
             {
                 iconName: 'icofont-ui-user',
-                text: 'Rajib Raj',
+                text: 'xyz',
             },
             {
                 iconName: 'icofont-calendar',
-                text: 'Jun 05,2022',
+                text: 'Nov 27,2023',
             },
         ],
     },
@@ -85,11 +85,11 @@ const blogList = [
         metaList: [
             {
                 iconName: 'icofont-ui-user',
-                text: 'Rajib Raj',
+                text: 'xyz',
             },
             {
                 iconName: 'icofont-calendar',
-                text: 'Jun 05,2022',
+                text: 'Nov 27,2023',
             },
         ],
     },
@@ -104,11 +104,11 @@ const blogList = [
         metaList: [
             {
                 iconName: 'icofont-ui-user',
-                text: 'Rajib Raj',
+                text: 'xyz',
             },
             {
                 iconName: 'icofont-calendar',
-                text: 'Jun 05,2022',
+                text: 'Nov 27,2023',
             },
         ],
     },
@@ -123,11 +123,11 @@ const blogList = [
         metaList: [
             {
                 iconName: 'icofont-ui-user',
-                text: 'Rajib Raj',
+                text: 'xyz',
             },
             {
                 iconName: 'icofont-calendar',
-                text: 'Jun 05,2022',
+                text: 'Nov 27,2023',
             },
         ],
     },
@@ -142,11 +142,11 @@ const blogList = [
         metaList: [
             {
                 iconName: 'icofont-ui-user',
-                text: 'Rajib Raj',
+                text: 'xyz',
             },
             {
                 iconName: 'icofont-calendar',
-                text: 'Jun 05,2022',
+                text: 'Nov 27,2023',
             },
         ],
     },
@@ -161,11 +161,11 @@ const blogList = [
         metaList: [
             {
                 iconName: 'icofont-ui-user',
-                text: 'Rajib Raj',
+                text: 'xyz',
             },
             {
                 iconName: 'icofont-calendar',
-                text: 'Jun 05,2022',
+                text: 'Nov 27,2023',
             },
         ],
     },
